@@ -1,0 +1,48 @@
+CRITICAL - 2025-01-14 09:00:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ci4-test-api\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-01-14 09:00:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ci4-test-api\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-01-14 09:01:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ci4-test-api\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-01-14 09:02:00 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ci4-test-api\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2025-01-14 02:04:39 --> Call to a member function get() on null
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(796): require()
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2025-01-14 02:04:57 --> Call to a member function get() on null
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(796): require()
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2025-01-14 02:06:47 --> Call to a member function get() on null
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(796): require()
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2025-01-14 02:08:02 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(796): require()
+#1 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\xampp\htdocs\ci4-test-api\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-test-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
